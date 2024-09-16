@@ -19,8 +19,14 @@ canvas {
 
 .link {
   cursor: pointer;
+
 }
 
 .link img {
   display: none;
+}
+
+.frame__demos > a{
+  font-size: 20px;
+  
 }
